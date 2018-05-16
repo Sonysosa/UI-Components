@@ -4,7 +4,7 @@ h1 {
 }
 
 img {
-    border: 2px solid black;
+   object-fit: cover;
     border-radius: 50%;
     border: none;
     padding: 80px;  
