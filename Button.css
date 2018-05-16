@@ -1,0 +1,88 @@
+.row {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn-es {
+    background-color:#2196f3;
+    font-size: 6px;
+    width: 80px;
+    height: 10px;
+    padding: 5px  5px;
+    border: 1px solid black;
+    border-radius:0.1rem;
+    border: none;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    cursor: pointer;
+    color: rgba(253, 244, 244, 0.966);
+}
+
+ .btn-sm {
+    background-color:#2196f3;
+    font-size: 8px;
+    width: 100px;
+    height: 12px;
+    padding: 7px  7px;
+    border: 1px solid black;
+    border-radius:0.1rem;
+    border: none;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    cursor: pointer;
+    color: rgba(253, 244, 244, 0.966);
+}
+
+ .btn-md {
+    background-color:#2196f3;
+    font-size: 10px;
+    width: 120px;
+    height: 15px;
+    padding: 9px  9px;
+    border: 1px solid black;
+    border-radius:0.1rem;
+    border: none;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    cursor: pointer;
+    color: rgba(253, 244, 244, 0.966);
+} 
+
+.btn-lg {
+    background-color:#2196f3;
+    font-size: 12px;
+    width: 140px;
+    height: 18px;
+    padding: 11px  11px;
+    border: 1px solid black;
+    border-radius:0.1rem;
+    border: none;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    cursor: pointer;
+    color: rgba(253, 244, 244, 0.966);
+} 
+
+.btn-el {
+    background-color:#2196f3;
+    font-size: 15px;
+    width: 160px;
+    height: 20px;
+    padding: 13px  13px;
+    border: 1px solid black;
+    border-radius:0.1rem;
+    border: none;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    cursor: pointer;
+    color: rgba(253, 244, 244, 0.966);
+}  
