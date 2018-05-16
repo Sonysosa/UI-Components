@@ -1,0 +1,32 @@
+body {
+    margin: 0px;
+}
+
+.nav-bar {
+    background-color: rgb(58, 57, 57);
+    color: white;
+    font-size: 1em;
+    padding: 10px;
+    margin-top: 0px;
+    height:30px;
+    }
+
+.nav-left {
+    display: inline;
+    padding: 10px;
+    list-style: none;
+    }
+.nav-right {
+    list-style: none;
+    } 
+
+.nav-right img {
+   margin-top: -20px;
+    float: right;
+}
+
+img {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
