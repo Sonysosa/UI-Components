@@ -1,0 +1,35 @@
+body {
+    padding: 0px;
+    margin: -22px;
+  }
+
+.side-nav .side-nav-left {
+    cursor: pointer;
+    padding-top: 40px;
+    }
+
+.side-nav {
+     list-style: none;
+     width: 130px; 
+     background-color:#41a4c3;
+     color: white;
+     height: 100%; 
+     font-family:'Ubuntu', sans-serif;
+     font-size: 1.5em;
+     position: fixed;
+     }
+
+.side-nav-left {
+    padding-top: 30px;
+    }
+
+img {
+    margin-top: 400px;
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border: 1px solid black;
+    border: none;
+    border-radius: 50%;
+    padding-left: 10px;
+    }

@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+
+}
+
+h3 {
+    text-align: center;
+    
+}
+.email p{
+    margin-left: 450px;
+    padding-top: 150px;
+   
+}
+input{
+    border: 1px solid rgb(165, 165, 165);
+}
+::placeholder{
+    color: gray;
+}
+

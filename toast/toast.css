@@ -1,0 +1,12 @@
+.toast {
+    height: 300px;
+    }
+h1 {
+    text-align: center;
+}
+p {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 40%;
+    text-align: justify;
+     margin-left: 400px;
+}

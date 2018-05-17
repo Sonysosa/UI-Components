@@ -1,0 +1,26 @@
+.card {
+    margin: -15px;
+    margin-left: 430px;
+    box-shadow: 0 4px 8px 0 rgba(32, 32, 32, 0.664);
+    width: 30%;
+    height: 300px;
+    margin-top: 40px;
+}
+img {
+    width: 100px;
+    height: 100px;
+    margin-left: 150px;
+    padding-top: 50px;
+}
+h1,p {
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(20, 20, 20, 0.2);
+}
+h4 {
+    padding-top: 10px;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
